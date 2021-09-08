@@ -1,0 +1,17 @@
+From f871008d97cac5c8520b76bac5bc30441b181435 Mon Sep 17 00:00:00 2001
+From: Bastian Ugalde <88996014+Bastiann24@users.noreply.github.com>
+Date: Wed, 25 Aug 2021 10:57:52 +0930
+Subject: [PATCH 1/2] Rename LICENSE to LICENSE.md
+
+---
+ LICENSE => LICENSE.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename LICENSE => LICENSE.md (100%)
+
+diff --git a/LICENSE b/LICENSE.md
+similarity index 100%
+rename from LICENSE
+rename to LICENSE.md
+-- 
+2.32.0.windows.2
+
